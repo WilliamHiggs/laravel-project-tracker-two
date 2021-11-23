@@ -1,4 +1,4 @@
-# Laravel Project Tracker II
+# 🎯 Laravel Project Tracker II
 
 Laravel and Vue3 + Vuex using TailwindCSS for styling and Sanctum for authentication.
 
